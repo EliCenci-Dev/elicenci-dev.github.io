@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <title>EliCenci-Dev</title>
+</head>
+</body>
+    <h1>Olá! Eu sou EliCenci-Dev</h1>
+    <p>Bem-vindo ao meu primeiro site online!</p>
+</body>
+</html>
